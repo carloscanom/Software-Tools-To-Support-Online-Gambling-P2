@@ -1,0 +1,11 @@
+ats-a8s,jj+,22,96s,96o+,83s+,88-44
+aa,aks-a6s,k8s-k5s,97s-92s,77,74s-72s
+aa,a7s-a6s,k8s-k5s,97s-92s,77,76s-72s,76o-72o,qq+,j4s+,t9o-t2o
+JJ+,ATs-A2s
+JJ+,T2s+,52o+
+33+,A2s+,KTs+,QJs,A4o+,KJo+
+22+,A2s+,K2s+,Q2s+,J2s+,T2s+,94s+,85s+,75s+,A2o+,K2o+,Q2o+,J2o+,T5o+,96o+,87o
+33+,A3s+,A7o+,KTs+,KQo
+22+,82s+,92s+,T2s+,T2o+,J2s+,J2o+,Q2s+,Q2o+,K2s+,K2o+,A2s+,A2o+,73s+,54s,64s+,94o+,75o+,85o+
+99+,77,22,AKs,AJo+,KJs,K8s,KQo,KTo,Q9o,Q9s,J9s,97s,76s
+22,65s,Q9s,KK+,AKs
